@@ -13,6 +13,10 @@ Items are priced as follows:
 
 Given a list of shopping, calculate the total cost of those items.
 
+# Code is hosted in netlify
+The code is already deployed netlify website 
+link: https://lambent-tarsier-ad1da9.netlify.app/
+
 # Setup Environment
 Checkout or clone the project.
 # Clone from git repository
