@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Getting Started with bill-ease
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Discription
+This is the basic react app which is created for calculates the price of a basket of shopping.
+Items are priced as follows:
+
+ - Apples are 35p each
+ - Bananas are 20p each
+ - Melons are 50p each, but are available as ‘buy one get one free’
+ - Limes are 15p each, but are available in a ‘three for the price of two’ offer
+
+Given a list of shopping, calculate the total cost of those items.
 
 ## Available Scripts
 
