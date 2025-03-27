@@ -13,6 +13,33 @@ Items are priced as follows:
 
 Given a list of shopping, calculate the total cost of those items.
 
+# Setup Environment
+Checkout or clone the project.
+# Clone from git repository
+git repository link (https://github.com/rajathDShetty/bill-ease)
+or 
+### `git clone https://github.com/rajathDShetty/bill-ease.git`
+
+# install dependencies 
+To install required dependencies node.js vesion > v14. should be install and setup in local
+open terminal inside the bill-ease folder
+
+### `npm install`
+to install all the all the dependencies which is already listed in package.json
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+# alternative
+If not working in local then already hosted in the netlify website 
+link: (https://lambent-tarsier-ad1da9.netlify.app/)
+
+# source code where logic written to review
+location: ./bill-ease/ShoppingBasket.js (line: 10) (function name calculateTotal).
+location: ./bill-ease/ListCalculation.js (line: 12) (function name calculateTotal).
+
 ## Available Scripts
 
 In the project directory, you can run:
